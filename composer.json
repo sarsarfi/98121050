@@ -1,0 +1,17 @@
+{
+    "name": "iran_soft/webprogramming2tamrin",
+    "description": "tamrin web",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "IranSoft\\Webprogramming2tamrin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sara"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
